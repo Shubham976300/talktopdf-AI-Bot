@@ -274,7 +274,7 @@ if uploaded_file is not None:
                     input_variables=["context", "question"],
                 )
                 memory = ConversationBufferMemory(
-                    memory_key=f"chat_history_{st.session_state.session_id}",
+                    memory_key="chat_history",
                     return_messages=True
                 )
                 qa_chain = ConversationalRetrievalChain.from_llm(
