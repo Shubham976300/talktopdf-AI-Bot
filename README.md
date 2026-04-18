@@ -1,7 +1,7 @@
-# 📄 TalkToPDF – AI Chatbot (RAG)
+# 📄 Chat2PDF – AI Chatbot (RAG)
 
 ## 🚀 Overview
-TalkToPDF is a Streamlit-based web app that allows users to upload a PDF and interact with it using AI.  
+Chat2PDF is a Streamlit-based web app that allows users to upload a PDF and interact with it using AI.  
 It uses Retrieval-Augmented Generation (RAG) to provide accurate answers strictly from the document.
 
 ---
